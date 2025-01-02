@@ -15,8 +15,6 @@ Create a annual sales report for 2022. So that, Owner can understand their custo
 7. WHICH CHANNEL IS CONTRIBUTING TO MAXIMUM SALES ?
 8. HIGHEST SELLING CATEGORY?
 
-# 🖼️📸 Screen Shot of Report of Retail Store Analysis
-<img src="Screenshot 2023-09-04 112756.png(1)">
 
 # 🥸 INSIGHTS
 - Women are more likely to buy compared to men (~65%)
