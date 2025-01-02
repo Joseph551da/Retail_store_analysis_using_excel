@@ -2,9 +2,9 @@
 
 # 🎯 OBJECTIVE
 
-Create a annual sales report for 2022. So that, Owner can understand their customers and grow more sales in 2023.
+Created an annual sales report for 2022. So that the owner can understand their customers and grow more sales in 2023.
 
-# 🤔 Sample Question on which i have made my report
+# Sample Question on which I have made my report
 
 1. COMPARE THE SALES AND ORDERS USING SINGLE CHART
 2. WHICH MONTH GOT THE HIGHEST SALES AND ORDERS?
@@ -19,8 +19,8 @@ Create a annual sales report for 2022. So that, Owner can understand their custo
 # 🥸 INSIGHTS
 - Women are more likely to buy compared to men (~65%)
 - Maharashtra, Karnataka, and UP are the top 3 states (~35%)
-- Adult age group (30-49) is max contributing (~50%)
-- Amazon, Flipkart and Myntra Channels are max contributing (~80%)
+The adult age group (30-49) is max contributing (~50%)
+- Amazon, Flipkart, and Myntra Channels are max contributing (~80%)
 
 # 💡 FINAL CONCLUSION TO IMPROVE THE RETAIL STORE SALES
-Target women customers of age group (30-49) living in Maharashtra, Karnataka, and UP by showing ads/offers/coupons available on Amazon, Flipkart and Myntra.
+Target women customers of the age group (30-49) living in Maharashtra, Karnataka, and UP by showing ads/offers/coupons available on Amazon, Flipkart, and Myntra.
